@@ -1,0 +1,3 @@
+com\automation\reporting\ExtentReporter.class
+com\automation\reporting\ExtentManager.class
+com\automation\reporting\ITestReporter.class
